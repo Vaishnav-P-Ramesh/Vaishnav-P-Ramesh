@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vaishnav+P+Ramesh;Web+Developer+from+India;Upcoming+Blockchain+Developer;Passionate+Learner+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vaishnav+P+Ramesh;Web+Developer+from+India;Upcoming+Blockchain+Developer;Passionate+Learner+🚀" alt="Devloper" />
 </h1>
 
 <h3 align="center">A passionate and enthusiastic Web developer from India, and an upcoming blockchain developer. 🚀</h3>
