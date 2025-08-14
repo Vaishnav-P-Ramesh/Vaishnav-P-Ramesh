@@ -23,9 +23,6 @@
   <a href="https://www.instagram.com/vais_hnav16/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-9B30FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/vaishnav20041610" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-7A1FA2?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
   <a href="https://x.com/Vais_hnav16?t=EAjBhW5-zphK2yv4MW0ptA&s=09" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
